@@ -112,7 +112,8 @@ This project demonstrates how **Power BI** can transform raw data into compellin
 | File | Description |
 |------|-------------|
 | [`Superstore_dashboard_powerbi.pbix`](https://github.com/DevanshRajoria-data/Superstore-Dashboard_project_dataanalysis/blob/main/Superstore_dashboard_powerbi.pbix) | Interactive Power BI dashboard |
-| [`superstore_dashboard -powerbi.pdf`](https://github.com/DevanshRajoria-data/Superstore-Dashboard_project_dataanalysis/blob/main/superstore_dashboard%20-powerbi.pdf) | Static PDF snapshot of dashboard |
+| [`superstore_dashboard -powerbi.pdf`]([`superstore_dashboard -powerbi.pdf`](https://github.com/DevanshRajoria-data/Superstore-Dashboard_project_dataanalysis/raw/main/superstore_dashboard%20-powerbi.pdf)
+) | Static PDF snapshot of dashboard |
 | `superstore_dashboard_preview.png` | Dashboard preview image used in README |
 
 ---
